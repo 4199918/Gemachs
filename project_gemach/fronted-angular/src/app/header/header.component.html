@@ -1,0 +1,35 @@
+<nav class="navbar mb-auto navbar-expand-lg bg-dark navbar-dark justify-content-between">
+    <h6 class="h6 top left">
+        בס"ד</h6>
+    <a class="navbar-brand" [routerLink]="'/home'" routerLinkActive="active" href="#">
+        <img src="../../assets/help.png" width="40" height="40" class="d-inline-block align-top" alt='קלגמ"ח'>
+        <span>&nbsp; קלגמ"ח</span>
+    </a>
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    רשימת הגמח"ים
+                </a>
+                <div class="dropdown-menu" style="width: 800px; height: 500px; right: 10%;" aria-labelledby="navbarDropdownMenuLink">
+                    <app-gemaches-list></app-gemaches-list>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" [routerLink]="'/home'" routerLinkActive="active" href="#">דף הבית</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" [routerLink]="'/add-gemach-request'" routerLinkActive="active" href="#">פתיחת גמ"ח חדש</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" [routerLink]="'/support-center'" routerLinkActive="active" href="#">מערכת פניות</a>
+            </li>
+        </ul>
+    </div>
+
+    <form class="form-inline">
+        <input class="form-control mr-sm-2" type="search" placeholder='חיפוש בכל הגמחי"ם' aria-label="Search">
+        <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">חיפוש</button>
+    </form>
+</nav>

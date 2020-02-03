@@ -1,0 +1,28 @@
+<div style="padding: 5%;">
+
+    רשימת הגמחי"ם
+    <div class="search-hero" style="margin: 20px;">
+        <input class="form-control mr-sm-2" type="search" name="search" aria-label="Search" placeholder='חיפוש גמ"ח' [(ngModel)]="searchText" autocomplete="off">
+    </div>
+
+    <div class="d-inline float-left">
+        <div class="float-left d-inline mx-auto">
+            <h5 class="h5">היסטוריה</h5>
+            <ul class="list-group">
+                <li *ngFor="let gemach of gemachesInHistory$" class="btn btn-link">{{ gemach.gemachName }}</li>
+            </ul>
+        </div>
+        <div class="float-right d-inline" style="width: 1px; height: 250px; background-color:gray; display: inline-block; border-radius: 50px; margin-right: 50px;"></div>
+    </div>
+
+    <div class="d-inline float-left" style="display: inline-block; padding: 1%;">
+        <div class="container">
+            <div class="row">
+                <ul class="list-group">
+                    <li *ngFor="let gemach of gemaches$ | async |filter:searchText" [routerLink]="['/gemach/', gemach.gemachId]" routerLinkActive="active" class="btn btn-link" href="#" (click)="addToGemachesInHistory(gemach)">{{ gemach.gemachName }}</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>

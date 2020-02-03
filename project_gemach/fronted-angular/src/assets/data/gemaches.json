@@ -1,0 +1,99 @@
+{
+    "gemaches": [{
+            "gemachid": 1000,
+            "gemachname": "נר יצחק",
+            "gemachdescription": "נרות מכל הסוגים והגדלים.",
+            "gemachphone": "0521111111",
+            "gemachaddress": "אביי 10 אשדוד",
+            "gemachemail": "anonimy1@gmail.com"
+        },
+        {
+            "gemachid": 1001,
+            "gemachname": "מטעמי השבת",
+            "gemachdescription": "ארבעס וביצים קשות",
+            "gemachphone": "0522222222",
+            "gemachaddress": "רבא 15/2 אשדוד",
+            "gemachemail": "anonimy2@gmail.com"
+        },
+        {
+            "gemachid": 1002,
+            "gemachname": "עריסה נאה",
+            "gemachdescription": "עריסות ולוים לתינוקות",
+            "gemachphone": "0523333333",
+            "gemachaddress": "הפרחים 10/13 אשדוד",
+            "gemachemail": "anonimy3@gmail.com"
+        },
+        {
+            "gemachid": 1003,
+            "gemachname": "מנחת לאה",
+            "gemachdescription": "מתנות",
+            "gemachphone": "0524444444",
+            "gemachaddress": "הדודאים 20 ערד",
+            "gemachemail": "anonimy4@gmail.com"
+        },
+        {
+            "gemachid": 1004,
+            "gemachname": "המרעננים",
+            "gemachdescription": "שתיה חמה וקרה להתרעננות",
+            "gemachphone": "0525555555",
+            "gemachaddress": "הלימון 1 רעננה",
+            "gemachemail": "anonimy5@gmail.com"
+        },
+        {
+            "gemachid": 1005,
+            "gemachname": "בנה ביתך",
+            "gemachdescription": "כלי עבודה",
+            "gemachphone": "0526666666",
+            "gemachaddress": "הדחפורים 5 בת ים",
+            "gemachemail": "anonimy6@gmail.com"
+        },
+        {
+            "gemachid": 1006,
+            "gemachname": "גדולת גדליהו",
+            "gemachdescription": "מרכזי שולחנות לשמחות ועוד",
+            "gemachphone": "0527777777",
+            "gemachaddress": "יהודה הנשיא 4 אלעד",
+            "gemachemail": "anonimy7@gmail.com"
+        },
+        {
+            "gemachid": 1007,
+            "gemachname": "מפי עוללים",
+            "gemachdescription": "מוצצים ובקבוקים לתינוקות",
+            "gemachphone": "0528888888",
+            "gemachaddress": "שמעון המכבי 38 אלעד",
+            "gemachemail": "anonimy8@gmail.com"
+        },
+        {
+            "gemachid": 1008,
+            "gemachname": "קול ברמה",
+            "gemachdescription": "רמקולים ובוקסות לאירועים",
+            "gemachphone": "0529999999",
+            "gemachaddress": "ירושלים 5 בני ברק",
+            "gemachemail": "anonimy9@gmail.com"
+        },
+        {
+            "gemachid": 1009,
+            "gemachname": "תפארת יעקב",
+            "gemachdescription": "חומשים",
+            "gemachphone": "0521211212",
+            "gemachaddress": "הרוכבים 100 דימונה",
+            "gemachemail": "anonimy10@gmail.com"
+        },
+        {
+            "gemachid": 1010,
+            "gemachname": "שמחת כלה",
+            "gemachdescription": "אביזרים לשמחת כלה",
+            "gemachphone": "0523433434",
+            "gemachaddress": "שולמית 4 הרצליה",
+            "gemachemail": "anonimy11@gmail.com"
+        },
+        {
+            "gemachid": 1011,
+            "gemachname": "תפארת נתן יוסף",
+            "gemachdescription": "גמרות שוטנשטיין",
+            "gemachphone": "0524544545",
+            "gemachaddress": "ורד 27 נתניה",
+            "gemachemail": "anonimy12@gmail.com"
+        }
+    ]
+}
