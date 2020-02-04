@@ -12,3 +12,17 @@
 /home/tziporah/Documents/my_seminar_project/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.RazorTargetAssemblyInfo.cache
 /home/tziporah/Documents/my_seminar_project/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.dll
 /home/tziporah/Documents/my_seminar_project/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.pdb
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/bin/Debug/netcoreapp2.2/Backend_webapi.deps.json
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/bin/Debug/netcoreapp2.2/Backend_webapi.runtimeconfig.json
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/bin/Debug/netcoreapp2.2/Backend_webapi.runtimeconfig.dev.json
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/bin/Debug/netcoreapp2.2/Backend_webapi.dll
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/bin/Debug/netcoreapp2.2/Backend_webapi.pdb
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.csprojAssemblyReference.cache
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.csproj.CoreCompileInputs.cache
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.RazorAssemblyInfo.cache
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.RazorAssemblyInfo.cs
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.AssemblyInfoInputs.cache
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.AssemblyInfo.cs
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.RazorTargetAssemblyInfo.cache
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.dll
+/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/obj/Debug/netcoreapp2.2/Backend_webapi.pdb

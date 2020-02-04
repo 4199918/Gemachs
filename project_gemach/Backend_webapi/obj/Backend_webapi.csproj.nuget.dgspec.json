@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tziporah/Documents/my_seminar_project/project_gemach/Backend_webapi/Backend_webapi.csproj": {}
+    "/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/Backend_webapi.csproj": {}
   },
   "projects": {
-    "/home/tziporah/Documents/my_seminar_project/project_gemach/Backend_webapi/Backend_webapi.csproj": {
+    "/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/Backend_webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tziporah/Documents/my_seminar_project/project_gemach/Backend_webapi/Backend_webapi.csproj",
+        "projectUniqueName": "/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/Backend_webapi.csproj",
         "projectName": "Backend_webapi",
-        "projectPath": "/home/tziporah/Documents/my_seminar_project/project_gemach/Backend_webapi/Backend_webapi.csproj",
+        "projectPath": "/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/Backend_webapi.csproj",
         "packagesPath": "/home/tziporah/.nuget/packages/",
-        "outputPath": "/home/tziporah/Documents/my_seminar_project/project_gemach/Backend_webapi/obj/",
+        "outputPath": "/home/tziporah/Documents/my_seminar_project/Gemachs/project_gemach/Backend_webapi/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -39,15 +39,19 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
-            "Microsoft.AspNet.WebApi.Cors": {
-              "target": "Package",
-              "version": "[5.2.7, )"
-            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",

@@ -3,12 +3,12 @@ using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 using Backend_webapi.Models;
 using Microsoft.AspNetCore.Cors;
-// using System.Web.Http.Cors;
+//using System.Web.Http.Cors;
 
 namespace Backend_webapi.Controllers
 {   
-    // [EnableCors(origins: "http://localhost:4200", headers: "*", methods: "*")]
-    [EnableCors]
+    [EnableCors("AllowAll")]
+    //[EnableCors(origins: "https://localhost:4200", headers: "*", methods: "*")]
     [Produces("application/json")]
     [Route("api/gemaches")]
     [ApiController]
