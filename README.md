@@ -1,3 +1,2 @@
 # Gemachs
-Our finished seminary project in programing - gemachs project.
-hello!
+Our finished seminary project in programing - gemachs project. goodby!
