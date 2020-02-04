@@ -20,6 +20,7 @@ export class GemachComponent implements OnInit {
   getGemach() {
     let gemachid = this.route.snapshot.paramMap.get('gemachid')
     this.gemach$ = this.gemachesService.getGemach(gemachid)
+    console.log(`the gemach is: ${this.gemach$.gemachName}`)
   }
 
 }

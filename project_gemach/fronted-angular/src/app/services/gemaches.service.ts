@@ -28,12 +28,15 @@ export class GemachesService {
   }
 
   getGemaches(): Observable<Object>{
+    console.log("Now on getGemaches() (api)")
     return this.http.get('https://localhost:5001/api/gemaches')
 
   }
 
   getGemach( gemachid:string ): Observable<Object>{
-    return this.http.get(`https://localhost:5001/api/gemaches/gemachid/${gemachid}`)
+    let gemach= this.http.get(`https://localhost:5001/api/gemaches/gemachid/+${gemachid}`)
+    console.log(`Now on getGemach() (api) gemachid = ${gemachid} gemachName = ${gemach["gemachName"]}`)
+    return gemach
   }
 
 }
